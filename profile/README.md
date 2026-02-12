@@ -37,13 +37,13 @@ The number **8** is our vertical infinity—a symbol of eternal cycles, rebirth,
 
 A true Alchemist needs the finest elements. Our empire is built on **Advanced Starters**—ensuring every creation is scalable, sustainable, and beyond limits.
 
-### Core Transmutation Elements
+### 🧬 Core Transmutation Elements
 
-- **Frontend Alchemy** | React • Next.js • TypeScript • Tailwind CSS
-- **Backend Mastery** | Node.js • Python • GraphQL • REST APIs
-- **Database Architecture** | PostgreSQL • MongoDB • Redis
-- **Cloud Infrastructure** | AWS • Docker • Kubernetes
-- **DevOps Rituals** | CI/CD • GitHub Actions • Terraform
+- **Architectural Mastery** | Clean Architecture • DDD • Microservices • Event-Driven
+- **The Forge (Backend)** | Go • NestJS • Node.js • gRPC • Message Queues
+- **The Mirror Realm (Frontend)** | Next.js • Angular • TypeScript • Design Systems
+- **System Intelligence** | Observability (Grafana/Prometheus) • Scalability • High Availability
+- **Automated Sovereignty** | Advanced CI/CD • Infrastructure as Code • Docker Swarm/K8s
 
 ### Advanced Starter Templates
 
@@ -92,9 +92,9 @@ Every project begins with production-grade architecture, security, and best prac
 > *Projects manifesting soon—the transmutation is in progress*
 
 ### Coming Soon
-- **∞ Starter** | Production-ready Next.js architecture
-- **8 Forge** | CLI tool for infinite scaffolding
-- **Beyond UI** | Component library that transcends trends
+- **∞ Core Starter** | A multi-stack ecosystem (Go, NestJS, Next.js, Angular) built with production-grade DNA
+- **8 Forge** | The ultimate CLI tool to scaffold any "Infinite" project in seconds.
+- **Beyond UI** | A design system and component library that transcends fleeting trends.
 
 ---
 
