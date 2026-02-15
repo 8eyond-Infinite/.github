@@ -93,8 +93,8 @@ Every project begins with production-grade architecture, security, and best prac
 
 ### Coming Soon
 - **∞ Core Starter** | A multi-stack ecosystem (Go, NestJS, Next.js, Angular) built with production-grade DNA
-- **8 Forge** | The ultimate CLI tool to scaffold any "Infinite" project in seconds.
-- **Beyond UI** | A design system and component library that transcends fleeting trends.
+- **8eyond CLI** | The ultimate CLI tool to scaffold any "Infinite" project in seconds.
+- **8eyond UI** | A design system and component library that transcends fleeting trends.
 
 ---
 
